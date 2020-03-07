@@ -26,7 +26,8 @@ You can see example configurations [here](https://github.com/timokoesters/nbodys
 
 ### From source
 First, make sure you have rust installed. You can find installation instructions [here](https://www.rust-lang.org/tools/install).
-Then, had to install ```cmake
+
+Then, had to install cmake.
 ```bash
 # Clone the repo
 $ git clone https://github.com/timokoesters/nbodysim.git
